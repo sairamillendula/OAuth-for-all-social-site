@@ -1,5 +1,7 @@
 Myapp::Application.routes.draw do
 
+  resources :drives
+
 resources :articles
 
 

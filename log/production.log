@@ -1,0 +1,18 @@
+Compiled jquery.js  (2ms)  (pid 11709)
+Compiled jquery_ujs.js  (0ms)  (pid 11709)
+Compiled articles.js  (599ms)  (pid 11709)
+Compiled application.js  (640ms)  (pid 11709)
+Warning. Error encountered while saving cache /home/sri/Desktop/myprojects/OAuth2ForAll-fb-twitter-google-/tmp/cache/sass/7efdb0f4c9537a6979343be59ecd973722862217/articles.css.scssc: can't dump anonymous class #<Class:0x000000040664a0>
+Compiled articles.css  (42ms)  (pid 11709)
+Warning. Error encountered while saving cache /home/sri/Desktop/myprojects/OAuth2ForAll-fb-twitter-google-/tmp/cache/sass/7efdb0f4c9537a6979343be59ecd973722862217/scaffolds.css.scssc: can't dump anonymous class #<Class:0x000000040664a0>
+Compiled scaffolds.css  (11ms)  (pid 11709)
+Compiled application.css  (87ms)  (pid 11709)
+Compiled jquery.js  (1ms)  (pid 11709)
+Compiled jquery_ujs.js  (0ms)  (pid 11709)
+Compiled articles.js  (178ms)  (pid 11709)
+Compiled application.js  (203ms)  (pid 11709)
+Warning. Error encountered while saving cache /home/sri/Desktop/myprojects/OAuth2ForAll-fb-twitter-google-/tmp/cache/sass/7efdb0f4c9537a6979343be59ecd973722862217/articles.css.scssc: can't dump anonymous class #<Class:0x000000036f2900>
+Compiled articles.css  (8ms)  (pid 11709)
+Warning. Error encountered while saving cache /home/sri/Desktop/myprojects/OAuth2ForAll-fb-twitter-google-/tmp/cache/sass/7efdb0f4c9537a6979343be59ecd973722862217/scaffolds.css.scssc: can't dump anonymous class #<Class:0x000000036f2900>
+Compiled scaffolds.css  (11ms)  (pid 11709)
+Compiled application.css  (29ms)  (pid 11709)

@@ -24,6 +24,7 @@ gem 'jquery-rails'
 gem 'omniauth-facebook', '1.4.0'
 gem 'omniauth-twitter', '~> 1.0.0'
 gem 'omniauth-google-oauth2'
+gem 'paperclip-googledrive'
 gem 'json_pure' 
 gem 'json'
 

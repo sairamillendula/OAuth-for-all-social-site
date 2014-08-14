@@ -1,0 +1,22 @@
+<h1>Listing drives</h1>
+
+<table>
+  <tr>
+    <th>photo</th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @drives.each do |drife| %>
+  <tr>
+  <td><%= image_tag drive.photo.url(:small) %></td>
+    <td><%= link_to 'Show', drife %></td>
+    <td><%= link_to 'Edit', edit_drife_path(drife) %></td>
+    <td><%= link_to 'Destroy', drife, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Drive', new_drife_path %>
